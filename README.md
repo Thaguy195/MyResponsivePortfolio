@@ -22,7 +22,7 @@ Uses Bootstrap
 
 ## Link to Page
 
-
+https://thaguy195.github.io/MyResponsivePortfolio/
 
 ## Picture of Page
 
