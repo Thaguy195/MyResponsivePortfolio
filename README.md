@@ -26,7 +26,7 @@ Uses Bootstrap
 
 ## Picture of Page
 
-![alt text](./assets/Capture.PNG)
+![alt text](./assests/Capture.PNG)
 
 ## Credits
 
